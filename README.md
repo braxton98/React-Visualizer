@@ -1,6 +1,6 @@
 # React-Visualizer
 <hx>**How I worked on This project**</hx> <br/>
-My goal was to get a better understanding of the react fundamentals
+My goal was to get a better understanding of the react fundamentals<br/>
 The Bulk of the code is in the Vis.js file <--------------
 
   * I started with the Bubble Sort algorithm <br/>
