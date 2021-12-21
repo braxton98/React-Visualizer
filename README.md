@@ -2,6 +2,8 @@
 <hx>**How I worked on This project**</hx> <br/>
 My goal was to get a better understanding of the react fundamentals<br/>
 The Bulk of the code is in the Vis.js file <--------------
+Things I learned making this<br/>
+I learned more about managing state and using some of the most popular hooks<br/>
 
   * I started with the Bubble Sort algorithm <br/>
   * I watched tutorials on React to understand the basics then started messing around with Hooks to be able to change the state of the sorter <br/>
