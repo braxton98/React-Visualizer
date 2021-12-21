@@ -1,7 +1,7 @@
 # React-Visualizer
 <hx>**How I worked on This project**</hx> <br/>
 My goal was to get a better understanding of the react fundamentals<br/>
-The Bulk of the code is in the Vis.js file <--------------
+The Bulk of the code is in the Vis.js file <--------------<br/>
 Things I learned making this<br/>
 I learned more about managing state and using some of the most popular hooks<br/>
 
